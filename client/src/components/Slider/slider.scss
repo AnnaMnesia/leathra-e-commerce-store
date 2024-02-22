@@ -1,0 +1,46 @@
+@import '../../sass/variables';
+
+.slider {
+    height: calc(100vh - 80px);
+    width: 100vw;
+    position: relative;
+    overflow: hidden;
+  
+    .container {
+      width: 400%; /* Adjusted to accommodate all 4 videos */
+      height: 100%;
+      display: flex;
+      transition: all 1s ease;
+  
+      video {
+        width: 25%; /* Adjusted for 4 videos */
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+  
+    video::-webkit-media-controls {
+      display: none;
+    }
+  
+    .icons {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      padding: 0 20px;
+    }
+  
+    .icon {
+      background-color: rgba(255, 255, 255, 0.5);
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }

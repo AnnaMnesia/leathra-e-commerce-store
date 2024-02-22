@@ -1,0 +1,82 @@
+@import '../../sass/variables';
+
+.contact{
+    background: $font-color;
+    height: 120px;
+    min-height: fit-content;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $primary-color;
+
+    .wrapper{
+        position: relative;
+        width: 80%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        
+        
+        input{
+            width: 300px;
+            padding: 10px;
+            border: 1px solid #3e3d39;
+            background: none;
+            border-radius: 40px 0 0 40px;
+            color: $primary-color;
+
+            &:placeholder-shown{
+                color: $primary-color;
+            }
+            &:focus {
+                outline: none;
+                border: 1px solid #3e3d39;
+            }
+        }
+
+        button{
+            padding: 10px;
+            background: #3e3d39;
+            color: $primary-color;
+            border-radius: 0 40px 40px 0;
+            border: 1px solid #3e3d39;
+            font-weight: 600;
+            cursor: pointer;
+
+            &:hover{
+                background: $pop-color;
+                color: $primary-color;
+                transition: 0.2s ease;
+            }
+        }
+
+        .error-message{
+            position: absolute;
+            font-weight: 100;
+            font-size: 12px;
+            color: rgb(199, 33, 33);
+            padding-top:5px ;
+            
+        }
+
+        .media-links{
+            display: flex;
+            gap: 50px;
+            text-transform: uppercase;
+            align-items: center;
+
+
+            .item{
+                position: relative;
+
+                .icon{
+                    position: absolute;
+                    top: -4px;
+                    font-size: 22px;
+                }
+            }
+        }
+    }
+}
