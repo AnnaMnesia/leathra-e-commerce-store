@@ -25,5 +25,17 @@
 .bottom{
     display: flex;
     justify-content: center;
-    gap: 50px;
+
+    .card-container{
+        display: flex;
+        overflow-x: auto;
+        gap: 50px;
+        scrollbar-width: none; /* Hide scrollbar in Firefox */
+        -ms-overflow-style: none; /* Hide scrollbar in IE/Edge */
+
+        &::-webkit-scrollbar {
+                display: none; /* Hide scrollbar in WebKit browsers (Chrome, Safari) */
+            }
+    }
+
 }

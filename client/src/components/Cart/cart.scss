@@ -1,7 +1,7 @@
 @import '../../sass/variables';
 
 .cart{
-    max-width: 500px;
+    max-width: 400px;
     max-height: 650px;
     position: absolute;
     right: 20px;
@@ -63,5 +63,37 @@
             cursor: pointer;
             font-size: 25px;
         }
+    }
+
+    .total{
+        display: flex;
+        justify-content: space-between;
+        font-weight: 500;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    button{
+        width: 250px;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        cursor: pointer;
+        border: none;
+        background-color: $icon-color;
+        color: $primary-color;
+        margin-bottom: 20px;
+        &:hover{
+            background-color: $pop-color;
+        }
+    }
+
+    .reset{
+        cursor: pointer;
+        color: $error-color;
+        font-size: 12px;
+        text-transform: none;
     }
 }

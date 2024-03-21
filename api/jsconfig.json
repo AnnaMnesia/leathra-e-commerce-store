@@ -1,0 +1,19 @@
+// {
+//   "compilerOptions": {
+//     "module": "NodeNext",
+//     "moduleResolution": "NodeNext",
+//     "target": "ES2021",
+//     "checkJs": true,
+//     "allowJs": true
+//   }
+// }
+
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "ES2021",
+    "checkJs": true,
+    "allowJs": true
+  }
+}
