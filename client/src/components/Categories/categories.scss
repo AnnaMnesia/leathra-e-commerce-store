@@ -1,56 +1,153 @@
 @import '../../sass/variables';
 
 .categories{
-    display: flex;
-    height: 80vh;
-    gap: 10px;
-    margin: 10px;
+    margin: 70px 0;
 
-    .col{
-        flex: 1;
+    .head{
         display: flex;
-        flex-direction: column;
-        gap: 10px;
-    }
+        align-items: flex-end;
+        justify-content: space-between;
+        padding: 0 14px 10px;
+        margin-bottom: 4px;
 
-    .col-l{
-        flex: 2;
-    }
-
-    .row{
-        flex: 1;
-        display: flex;
-        gap: 10px;
-        position: relative;
-        overflow: hidden;
-
-        button{
+        h2{
+            font-size: clamp(38px, 7.5vw, 120px);
+            line-height: 0.86;
+            letter-spacing: -0.02em;
+            font-weight: 300;
             text-transform: uppercase;
-            width: fit-content;
-            position: absolute;
-            min-width: 100px;
-            height: 50px;
-            padding: 10px;
-            top: 0;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            margin: auto;
-            cursor: pointer;
-            border: none;
-            background: none;
-            color: #A84E32;
-            font-size: 40px;
+        }
 
-            &:hover{
-                color: $primary-color;
+        .arrows{
+            display: flex;
+            gap: 12px;
+            color: $icon-color;
+
+            button{
+                border: none;
+                background: transparent;
+                color: inherit;
+                font-size: 22px;
+                cursor: pointer;
+                line-height: 1;
+                padding: 0;
             }
         }
+    }
+
+    .viewport{
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .track{
+        display: flex;
+        will-change: transform;
+
+        &.isAnimated{
+            transition: transform 0.85s cubic-bezier(0.22, 0.61, 0.36, 1);
+        }
+    }
+
+    .categoryCard{
+        flex: 0 0 auto;
+        position: relative;
+        height: clamp(620px, 76vh, 980px);
+        overflow: hidden;
+        background: #d8d8d8;
 
         img{
             width: 100%;
             height: 100%;
             object-fit: cover;
+            transition: transform 0.45s ease;
+        }
+
+        .overlay{
+            position: absolute;
+            inset: 0;
+            padding: 14px;
+            background: linear-gradient(180deg, rgba(0,0,0,0.12) 0%, rgba(0,0,0,0.32) 100%);
+
+            .name{
+                position: absolute;
+                top: 50%;
+                left: 14px;
+                transform: translateY(-50%);
+                color: $primary-color;
+                font-size: 26px;
+                font-weight: 300;
+                line-height: 0.95;
+                text-transform: none;
+            }
+
+            .shopBtn{
+                position: absolute;
+                left: 14px;
+                bottom: 14px;
+                min-width: 92px;
+                padding: 6px 10px;
+                border-radius: 999px;
+                border: 1px solid rgba(255,255,255,0.36);
+                background: rgba(0, 0, 0, 0.6);
+                color: $primary-color;
+                font-size: 11px;
+                letter-spacing: 0.08em;
+                text-transform: uppercase;
+            }
+        }
+
+        &:hover{
+            img{
+                transform: scale(1.04);
+            }
+        }
+    }
+}
+
+@media (max-width: 1100px){
+    .categories{
+        .head .arrows button{
+            font-size: 20px;
+        }
+    }
+}
+
+@media (max-width: 680px){
+    .categories{
+        margin: 52px 0;
+
+        .head{
+            padding: 0 12px 10px;
+
+            h2{
+                font-size: clamp(32px, 12vw, 54px);
+            }
+
+            .arrows{
+                font-size: 18px;
+                gap: 8px;
+            }
+        }
+
+        .track{
+            &.isAnimated{
+                transition-duration: 0.62s;
+            }
+        }
+
+        .categoryCard .overlay .name{
+            font-size: 30px;
+            left: 12px;
+        }
+
+        .categoryCard .overlay .shopBtn{
+            left: 12px;
+            bottom: 12px;
+        }
+
+        .categoryCard{
+            height: clamp(500px, 70vh, 760px);
         }
     }
 }

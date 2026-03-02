@@ -5,6 +5,7 @@ import DeleteOutlinedIcon from '@mui/icons-material/DeleteOutlined';
 import { removeItem, resetCart } from '../../redux/cartReducer';
 import {loadStripe} from '@stripe/stripe-js';
 import { makeRequest } from '../../makeRequest';
+import { resolveMediaUrl } from '../../utils/media';
 
 
 const Cart = () => {
@@ -33,36 +34,57 @@ const Cart = () => {
         });
   
       } catch (err) {
-        console.log(err);
+        alert("Checkout service is currently unavailable. Please try again later.");
       }
     };
     return (
       <div className="cart">
-        <h1>Products in your cart</h1>
-        {products?.map((item) => (
-          <div className="item" key={item.id}>
-            <img src={process.env.REACT_APP_UPLOAD_URL + item.img} alt="" />
-            <div className="details">
-              <h1>{item.title}</h1>
-              <p>{item.desc?.substring(0, 100)}</p>
-              <div className="price">
-                {item.quantity} x ${item.price}
-              </div>
-            </div>
-            <DeleteOutlinedIcon
-              className="delete"
-              onClick={() => dispatch(removeItem(item.id))}
-            />
-          </div>
-        ))}
-        <div className="total">
-          <span>SUBTOTAL</span>
-          <span>${totalPrice()}</span>
+        <div className="cartHead">
+          <span className="kicker">Cart</span>
+          <h1>Your selection</h1>
         </div>
-        <button onClick={handlePayment}>PROCEED TO CHECKOUT</button>
-        <span className="reset" onClick={() => dispatch(resetCart())}>
-          Reset Cart
-        </span>
+
+        {!products?.length && (
+          <div className="emptyState">
+            <span className="emptyTitle">Your cart is empty</span>
+            <p>Add a few pieces to begin building your edit.</p>
+          </div>
+        )}
+
+        {!!products?.length && (
+          <div className="itemsList">
+            {products?.map((item) => (
+              <div className="item" key={item.id}>
+                <img src={resolveMediaUrl(item.img)} alt={item.title} />
+                <div className="details">
+                  <span className="itemTitle">{item.title}</span>
+                  <p>{item.desc?.substring(0, 88)}</p>
+                  <div className="metaRow">
+                    <span className="qty">{item.quantity} x</span>
+                    <span className="price">${item.price}</span>
+                  </div>
+                </div>
+                <DeleteOutlinedIcon
+                  className="delete"
+                  onClick={() => dispatch(removeItem(item.id))}
+                />
+              </div>
+            ))}
+          </div>
+        )}
+
+        <div className="cartFoot">
+          <div className="total">
+            <span>Subtotal</span>
+            <span>${totalPrice()}</span>
+          </div>
+          <button onClick={handlePayment}>Proceed to checkout</button>
+          {!!products?.length && (
+            <span className="reset" onClick={() => dispatch(resetCart())}>
+              Clear cart
+            </span>
+          )}
+        </div>
       </div>
     );
   };

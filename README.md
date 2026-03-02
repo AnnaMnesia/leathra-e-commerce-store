@@ -11,3 +11,11 @@ Leathra E-commerce Store is an online platform dedicated to providing high-quali
 
 ### Purpose of the Project
 The purpose of the Leathra E-commerce Store project is to provide a robust online platform for customers to explore, select, and purchase premium leather goods conveniently from the comfort of their homes. By integrating secure payment processing and a visually appealing interface, the platform aims to offer a seamless shopping experience while promoting the beauty and durability of leather products. Additionally, the project strives to establish a strong online presence for the Leathra brand, catering to the needs of discerning customers seeking high-quality leather items.
+
+### Admin Shortcuts
+- Strapi products admin: http://localhost:1337/admin/content-manager/collection-types/api::product.product?page=1&pageSize=10&sort=title:ASC
+
+### Copyright
+Copyright (c) 2026 Anna Mastoridou. All rights reserved.
+
+This project, including its source code, UI design, and assets, may not be copied, modified, distributed, or reused without prior written permission.

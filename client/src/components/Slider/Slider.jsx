@@ -45,7 +45,7 @@ const Slider = () => {
 
   return (
     <div className='slider'>
-      <div className="container" style={{ transform: `translateX(-${currentSlide * 100}vw)` }}>
+      <div className="container" style={{ transform: `translateX(-${currentSlide * 25}%)` }}>
         {videosData.map((video, index) => (
           <video key={index} src={video.src} autoPlay loop muted>
             Your browser does not support the video tag.

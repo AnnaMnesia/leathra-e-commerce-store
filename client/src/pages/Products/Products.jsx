@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './products.scss';
 import List from '../../components/List/List';
 import { useParams } from 'react-router-dom';
@@ -10,7 +10,7 @@ const Products = () => {
   const [sort, setSort] = useState(null);
   const [selectedSubCats, setSelectedSubCats] = useState([])
 
-  const {data, loading, error} = useFetch(`/sub-categories?[filters][categories][id][$eq]=${catId}`);
+  const {data} = useFetch(`/sub-categories?[filters][categories][id][$eq]=${catId}`);
 
 
   const handleChange = (e) =>{

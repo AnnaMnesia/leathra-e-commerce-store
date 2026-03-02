@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 import './contact.scss';
-import { Link } from 'react-router-dom';
-
 
 import ArrowOutwardOutlinedIcon from '@mui/icons-material/ArrowOutwardOutlined';
 
@@ -47,19 +45,19 @@ const Contact = () => {
             
             <div className="media-links">
                 <div className="item">
-                    <Link className='link' to='https://www.instagram.com/' target="_blank" rel="noopener noreferrer">Instagram
-                    <ArrowOutwardOutlinedIcon className='icon'/></Link>
+                    <a className='link' href='https://www.instagram.com/' target="_blank" rel="noopener noreferrer">Instagram
+                    <ArrowOutwardOutlinedIcon className='icon'/></a>
                     
                 </div>
                 
                 <div className="item">
-                    <Link className='link' to='https://www.facebook.com/' target="_blank" rel="noopener noreferrer">Facebook
-                    <ArrowOutwardOutlinedIcon className='icon'/></Link>
+                    <a className='link' href='https://www.facebook.com/' target="_blank" rel="noopener noreferrer">Facebook
+                    <ArrowOutwardOutlinedIcon className='icon'/></a>
                     
                 </div>
                 <div className="item">
-                    <Link className='link' to='https://www.twitter.com/' target="_blank" rel="noopener noreferrer">X
-                    <ArrowOutwardOutlinedIcon className='icon'/></Link>
+                    <a className='link' href='https://www.twitter.com/' target="_blank" rel="noopener noreferrer">X
+                    <ArrowOutwardOutlinedIcon className='icon'/></a>
                     
                 </div>
             </div>

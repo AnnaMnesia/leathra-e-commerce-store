@@ -1,8 +1,12 @@
 import axios from "axios";
 
+const apiToken = process.env.REACT_APP_API_TOKEN;
+
 export const makeRequest = axios.create({
   baseURL: process.env.REACT_APP_API_URL,
-  headers: {
-    Authorization: "bearer " + process.env.REACT_APP_API_TOKEN,
-  },
+  headers: apiToken
+    ? {
+        Authorization: "bearer " + apiToken,
+      }
+    : {},
 });

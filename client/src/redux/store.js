@@ -1,5 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit'
 import cartReducer from './cartReducer';
+import savedReducer from './savedReducer';
 import {
   persistStore,
   persistReducer,
@@ -11,6 +12,7 @@ import {
   REGISTER,
 } from 'redux-persist'
 import storage from 'redux-persist/lib/storage'
+import { combineReducers } from '@reduxjs/toolkit';
 
 // const stripe = require('stripe')('sk_test_51OpwTrJRUMrh1bxX6JtRIUxz3JXNovvSGzL2D5iZJuS7Bf2fymGwWrw7vLP2V554tfrr5Tn17DEcKb1rPgughjFJ00PFEPbXHP');
 
@@ -21,10 +23,15 @@ const persistConfig = {
   storage,
 }
 
-const persistedReducer = persistReducer(persistConfig, cartReducer)
+const rootReducer = combineReducers({
+  cart: cartReducer,
+  saved: savedReducer,
+});
+
+const persistedReducer = persistReducer(persistConfig, rootReducer)
 
 export const store = configureStore({
-  reducer: {cart: persistedReducer},
+  reducer: persistedReducer,
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({
       serializableCheck: {
