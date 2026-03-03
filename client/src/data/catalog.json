@@ -348,34 +348,34 @@
       "type": "normal",
       "categoryIds": [3],
       "subCategoryIds": [7, 8],
-      "img": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/36364964/pexels-photo-36364964.jpeg?_gl=1*pmmyjx*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzMxMTAkajQ1JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/36365228/pexels-photo-36365228.jpeg?_gl=1*z1g5v8*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzMxMDIkajUzJGwwJGgw"
     },
     {
       "id": 28,
-      "title": "Leather Utility Bag Backpack",
-      "desc": "A compact leather backpack with secure closure, front storage, and padded shoulder straps.",
+      "title": "Leather Utility Bag",
+      "desc": "A leather utility bag with a practical silhouette, durable construction, and versatile carry options.",
       "price": 179,
       "oldPrice": 225,
       "isNew": false,
       "type": "normal",
       "categoryIds": [3],
       "subCategoryIds": [8],
-      "img": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/23223838/pexels-photo-23223838.jpeg?_gl=1*fbuchz*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzMxODUkajMzJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/23223837/pexels-photo-23223837.jpeg?_gl=1*15qfo1o*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzMxNzYkajQyJGwwJGgw"
     },
-    {
+    {     
       "id": 29,
-      "title": "Leather Travel Bag",
-      "desc": "A refined leather travel bag for short trips, with durable straps and spacious interior storage.",
+      "title": "Leather Travel Small Bag",
+      "desc": "A compact leather travel bag with a structured silhouette and versatile carry options for on-the-go use.",
       "price": 239,
       "oldPrice": 289,
       "isNew": true,
       "type": "normal",
       "categoryIds": [3],
       "subCategoryIds": [8],
-      "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/26965828/pexels-photo-26965828.jpeg?_gl=1*qyhgoq*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzM1NTkkajIwJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/26965826/pexels-photo-26965826.jpeg?_gl=1*gm98a0*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzM2NDEkajE4JGwwJGgw"
     },
     {
       "id": 30,
@@ -387,21 +387,21 @@
       "type": "normal",
       "categoryIds": [3],
       "subCategoryIds": [7],
-      "img": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/22432995/pexels-photo-22432995.jpeg?_gl=1*1bs0s5r*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzMyNjEkajI4JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/22432991/pexels-photo-22432991.jpeg?_gl=1*16nlinr*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzMyNjQkajI1JGwwJGgw"
     },
     {
       "id": 31,
-      "title": "Slim Leather Daily Backpack",
-      "desc": "A slim-profile backpack built for daily movement, with interior organization and clean styling.",
+      "title": "Slim Leather Daily Handbag",
+      "desc": "A slim-profile handbag built for daily movement, with interior organization and clean styling.",
       "price": 184,
       "oldPrice": 229,
       "isNew": false,
       "type": "normal",
       "categoryIds": [3],
       "subCategoryIds": [8],
-      "img": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/4427714/pexels-photo-4427714.jpeg?_gl=1*1kk2k2n*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzMzMTQkajM1JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/4427717/pexels-photo-4427717.jpeg?_gl=1*8vb57v*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzMzMTkkajMwJGwwJGgw"
     },
     {
       "id": 32,
@@ -413,8 +413,8 @@
       "type": "normal",
       "categoryIds": [3],
       "subCategoryIds": [7],
-      "img": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/7588026/pexels-photo-7588026.jpeg?_gl=1*1oycqfp*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzM0NDckajQyJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/7588015/pexels-photo-7588015.jpeg?_gl=1*1lfrpv7*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzM0NDAkajQ5JGwwJGgw"
     },
     {
       "id": 33,
@@ -426,8 +426,8 @@
       "type": "normal",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/30156654/pexels-photo-30156654.jpeg?_gl=1*q2oy12*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ0MjUkajgkbDAkaDA.",
+      "img2": "https://images.pexels.com/photos/30156659/pexels-photo-30156659.jpeg?_gl=1*q2oy12*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ0MjUkajgkbDAkaDA."
     },
     {
       "id": 34,
@@ -439,34 +439,34 @@
       "type": "normal",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1605812860427-4024433a70fd?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/26851201/pexels-photo-26851201.jpeg?_gl=1*oe3mb*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ0ODIkajI2JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/26851196/pexels-photo-26851196.jpeg?_gl=1*oe3mb*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ0ODIkajI2JGwwJGgw"
     },
     {
       "id": 35,
-      "title": "Tall Leather Boots",
-      "desc": "A high-shaft leather boot with clean structure and comfort-focused construction for long wear.",
+      "title": "Semi-Tall Leather Boots",
+      "desc": "A semi-tall leather boot with a sleek silhouette, tonal details, and a versatile profile for everyday wear.",
       "price": 229,
       "oldPrice": 279,
       "isNew": false,
       "type": "normal",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/27248256/pexels-photo-27248256.png?_gl=1*8wgwyd*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ1NjAkajkkbDAkaDA.",
+      "img2": "https://images.pexels.com/photos/27248250/pexels-photo-27248250.png?_gl=1*1521mei*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ1NDkkajIwJGwwJGgw"
     },
     {
       "id": 36,
-      "title": "Leather Ankle Boots",
-      "desc": "A confident ankle boot silhouette with smooth leather and a balanced everyday profile.",
+      "title": "Leather FlipFlops",
+      "desc": "A comfortable and stylish leather flip-flop with a soft sole and classic design.",
       "price": 199,
       "oldPrice": 245,
       "isNew": true,
       "type": "normal",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1605812860427-4024433a70fd?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/26925258/pexels-photo-26925258.jpeg?_gl=1*1yo4bom*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ2ODUkajI5JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/26925256/pexels-photo-26925256.jpeg?_gl=1*nxfaux*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ2NzgkajM2JGwwJGgw"
     },
     {
       "id": 37,
@@ -478,8 +478,8 @@
       "type": "normal",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/27141847/pexels-photo-27141847.jpeg?_gl=1*soml5s*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ3ODAkajYwJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/27141849/pexels-photo-27141849.jpeg?_gl=1*soml5s*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ3ODAkajYwJGwwJGgw"
     },
     {
       "id": 38,
@@ -491,8 +491,8 @@
       "type": "normal",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/35654984/pexels-photo-35654984.jpeg?_gl=1*166p9y3*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ4NDckajUzJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/35654989/pexels-photo-35654989.jpeg?_gl=1*1oknv5i*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ4NTUkajQ1JGwwJGgw"
     },
     {
       "id": 39,
@@ -504,12 +504,12 @@
       "type": "normal",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/30156650/pexels-photo-30156650.jpeg?_gl=1*19yc3rm*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ5MDYkajYwJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/30156664/pexels-photo-30156664.jpeg?_gl=1*a6tz8b*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ4OTgkajIkbDAkaDA."
     },
     {
       "id": 40,
-      "title": "Refined Leather Mid Boots",
+      "title": "Refined Mid Boots",
       "desc": "A modern mid-height leather boot with a balanced sole, soft lining, and confident seasonal presence.",
       "price": 219,
       "oldPrice": 269,
@@ -517,8 +517,8 @@
       "type": "normal",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1605812860427-4024433a70fd?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/30156674/pexels-photo-30156674.jpeg?_gl=1*1sxshuv*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ5NTgkajgkbDAkaDA.",
+      "img2": "https://images.pexels.com/photos/30156675/pexels-photo-30156675.jpeg?_gl=1*ls5owj*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzQ5NzAkajYwJGwwJGgw"
     }
   ],
   "subCategories": [
