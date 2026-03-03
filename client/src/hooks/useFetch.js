@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { makeRequest } from "../makeRequest";
 import { mockFetch } from "../data/mockCatalog";
 
 const useFetch = (url) => {
@@ -13,18 +12,11 @@ const useFetch = (url) => {
       try {
         setLoading(true);
         setError(false);
-        const res = await makeRequest.get(url);
-        setData(res.data.data);
-        setIsMockData(false);
+        const res = await mockFetch(url);
+        setData(res.data);
+        setIsMockData(true);
       } catch (err) {
-        try {
-          const fallback = await mockFetch(url);
-          setData(fallback.data);
-          setError(false);
-          setIsMockData(true);
-        } catch (fallbackError) {
-          setError(true);
-        }
+        setError(true);
       }
       setLoading(false);
     };
