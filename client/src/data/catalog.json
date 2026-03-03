@@ -10,8 +10,8 @@
       "type": "featured",
       "categoryIds": [1],
       "subCategoryIds": [1, 2],
-      "img": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/33847263/pexels-photo-33847263.jpeg?_gl=1*1dvbm2a*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjc0NTYkajQxJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/33847264/pexels-photo-33847264.jpeg?_gl=1*1xayy9q*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjc1MjgkajMzJGwwJGgw"
     },
     {
       "id": 2,
@@ -23,8 +23,8 @@
       "type": "trending",
       "categoryIds": [1],
       "subCategoryIds": [2, 3],
-      "img": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/6939212/pexels-photo-6939212.jpeg?_gl=1*in76pj*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjkzMjMkajEkbDAkaDA.",
+      "img2": "https://images.pexels.com/photos/6939119/pexels-photo-6939119.jpeg?_gl=1*79hvpz*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjkzNDEkajU3JGwwJGgw"
     },
     {
       "id": 3,
@@ -36,8 +36,8 @@
       "type": "featured",
       "categoryIds": [2],
       "subCategoryIds": [4, 5],
-      "img": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/30561923/pexels-photo-30561923.jpeg?_gl=1*1xtjk6z*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjc2MTIkajE2JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/30561925/pexels-photo-30561925.jpeg?_gl=1*11mbb57*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjc2MzgkajYwJGwwJGgw"
     },
     {
       "id": 4,
@@ -49,8 +49,8 @@
       "type": "trending",
       "categoryIds": [2],
       "subCategoryIds": [5, 6],
-      "img": "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1519085360753-fd307571497f?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/7622266/pexels-photo-7622266.jpeg?_gl=1*bllrdb*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjgwMTkkajU4JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/7622264/pexels-photo-7622264.jpeg?_gl=1*fgev4g*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjgxOTIkajU2JGwwJGgw"
     },
     {
       "id": 5,
@@ -62,8 +62,8 @@
       "type": "featured",
       "categoryIds": [3],
       "subCategoryIds": [7, 8],
-      "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/23223841/pexels-photo-23223841.jpeg?_gl=1*16wap2g*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjc4NDMkajQwJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/23223839/pexels-photo-23223839.jpeg?_gl=1*17920ps*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjc4NjYkajE3JGwwJGgw"
     },
     {
       "id": 6,
@@ -75,8 +75,8 @@
       "type": "trending",
       "categoryIds": [3],
       "subCategoryIds": [8],
-      "img": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/16485635/pexels-photo-16485635.jpeg?_gl=1*4u1496*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjk1MjgkajM3JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/16485649/pexels-photo-16485649.jpeg?_gl=1*1ahau13*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjk1MjgkajM3JGwwJGgw"
     },
     {
       "id": 7,
@@ -88,8 +88,8 @@
       "type": "featured",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/27256459/pexels-photo-27256459.jpeg?_gl=1*s71zdq*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjk2MzYkajYwJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/27256473/pexels-photo-27256473.jpeg?_gl=1*s71zdq*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjk2MzYkajYwJGwwJGgw"
     },
     {
       "id": 8,
@@ -101,34 +101,34 @@
       "type": "trending",
       "categoryIds": [4],
       "subCategoryIds": [9],
-      "img": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/26712437/pexels-photo-26712437.jpeg?_gl=1*7ng0pi*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjk3MTUkajYwJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/26712441/pexels-photo-26712441.jpeg?_gl=1*ug13j3*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjk3MzUkajQwJGwwJGgw"
     },
     {
       "id": 9,
-      "title": "Women's Cropped Racer Jacket",
-      "desc": "A sharp cropped leather jacket with a lightweight lining and polished silver hardware.",
+      "title": "Women's Long Leather Jacket",
+      "desc": "A timeless long leather jacket with a refined silhouette and premium finish.",
       "price": 259,
       "oldPrice": 309,
       "isNew": true,
       "type": "normal",
       "categoryIds": [1],
       "subCategoryIds": [1],
-      "img": "https://images.unsplash.com/photo-1554412933-514a83d2f3c8?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/4750190/pexels-photo-4750190.jpeg?_gl=1*3latyd*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjk4OTQkajQ0JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/4750171/pexels-photo-4750171.jpeg?_gl=1*1fmvv54*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjk4OTQkajQ0JGwwJGgw"
     },
     {
       "id": 10,
-      "title": "Women's Soft Leather Jacket",
-      "desc": "Relaxed tailoring meets supple leather in a refined jacket designed for elevated daily wear.",
+      "title": "Women's Leather Pants",
+      "desc": "A sleek leather pant with a slim fit and clean front for a polished everyday look.",
       "price": 289,
       "oldPrice": 345,
       "isNew": false,
       "type": "normal",
       "categoryIds": [1],
       "subCategoryIds": [3],
-      "img": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/6045373/pexels-photo-6045373.jpeg?_gl=1*1r91ie1*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAwMTYkajU0JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/6045381/pexels-photo-6045381.jpeg?_gl=1*x8p2ht*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAwNzckajYwJGwwJGgw"
     },
     {
       "id": 11,
@@ -140,34 +140,34 @@
       "type": "normal",
       "categoryIds": [1],
       "subCategoryIds": [2],
-      "img": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/5120186/pexels-photo-5120186.jpeg?_gl=1*r13a8b*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAxMTQkajIzJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/5119529/pexels-photo-5119529.jpeg?_gl=1*pxn52x*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAxMjMkajE0JGwwJGgw"
     },
     {
       "id": 12,
-      "title": "Women's Structured Leather Coat",
-      "desc": "A structured outer layer with subtle shaping and clean front closure for a minimal finish.",
+      "title": "Women's Structured Coat",
+      "desc": "A structured coat with a clean silhouette and versatile layering potential for year-round wear.",
       "price": 339,
       "oldPrice": 395,
       "isNew": false,
       "type": "normal",
       "categoryIds": [1],
       "subCategoryIds": [2, 3],
-      "img": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/6535343/pexels-photo-6535343.jpeg?_gl=1*nz3483*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAyMTAkajEkbDAkaDA.",
+      "img2": "https://images.pexels.com/photos/6532344/pexels-photo-6532344.jpeg?_gl=1*nz3483*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAyMTAkajEkbDAkaDA."
     },
     {
       "id": 13,
-      "title": "Women's Minimal Leather Jacket",
-      "desc": "An everyday leather jacket with a clean collarless neckline and understated detailing.",
+      "title": "Women's Elegant Dress",
+      "desc": "A sophisticated dress with a tailored fit and elegant design for formal and casual occasions.",
       "price": 229,
       "oldPrice": 279,
       "isNew": true,
       "type": "normal",
       "categoryIds": [1],
       "subCategoryIds": [1, 3],
-      "img": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/7723771/pexels-photo-7723771.jpeg?_gl=1*v7b1e8*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAzMzEkajYwJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/7723767/pexels-photo-7723767.jpeg?_gl=1*1h9jfk6*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAzNDMkajQ4JGwwJGgw"
     },
     {
       "id": 14,
@@ -179,8 +179,8 @@
       "type": "normal",
       "categoryIds": [1],
       "subCategoryIds": [2],
-      "img": "https://images.unsplash.com/photo-1495385794356-15371f348c31?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/4456728/pexels-photo-4456728.jpeg?_gl=1*1uqpp3l*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzAzOTkkajUyJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/4456727/pexels-photo-4456727.jpeg?_gl=1*9qui6m*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzA1MDgkajYwJGwwJGgw"
     },
     {
       "id": 15,
@@ -192,21 +192,21 @@
       "type": "normal",
       "categoryIds": [1],
       "subCategoryIds": [3],
-      "img": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/7115739/pexels-photo-7115739.jpeg?_gl=1*1p4rvor*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzA1NTEkajE3JGwwJGgw",
+      "img2": "https://www.pexels.com/photo/blond-woman-in-brown-snakeskin-jacket-7115743/"
     },
     {
       "id": 16,
-      "title": "Women's Everyday Leather Jacket",
-      "desc": "Relaxed fit, smooth finish, and simple hardware make this a versatile leather outerwear essential.",
+      "title": "Women's Everyday Coat",
+      "desc": "Relaxed fit, smooth finish, and simple hardware make this a versatile outerwear essential.",
       "price": 219,
       "oldPrice": 265,
       "isNew": false,
       "type": "normal",
       "categoryIds": [1],
       "subCategoryIds": [1],
-      "img": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/7682137/pexels-photo-7682137.jpeg?_gl=1*js9696*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzA2MjckajckbDAkaDA.",
+      "img2": "https://images.pexels.com/photos/7682125/pexels-photo-7682125.jpeg?_gl=1*1c2wzfw*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MzA2MzUkajYwJGwwJGgw"
     },
     {
       "id": 17,
@@ -218,8 +218,8 @@
       "type": "normal",
       "categoryIds": [2],
       "subCategoryIds": [5],
-      "img": "https://images.unsplash.com/photo-1521577352947-9bb58764b69a?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/5794271/pexels-photo-5794271.jpeg?_gl=1*1t0h734*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjgyMzUkajEzJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/5794273/pexels-photo-5794273.jpeg?_gl=1*s4jonk*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjgyNDgkajYwJGwwJGgw"
     },
     {
       "id": 18,
@@ -231,12 +231,12 @@
       "type": "normal",
       "categoryIds": [2],
       "subCategoryIds": [5],
-      "img": "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/5019257/pexels-photo-5019257.jpeg?_gl=1*15p40u*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjgzNzUkajIyJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/5019259/pexels-photo-5019259.jpeg?_gl=1*1kjtyh3*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjgzODkkajgkbDAkaDA."
     },
     {
       "id": 19,
-      "title": "Men's Utility Leather Jacket",
+      "title": "Men's Utility Leather T-shirt Jacket",
       "desc": "A utility-inspired leather jacket with practical pockets and a structured modern profile.",
       "price": 319,
       "oldPrice": 369,
@@ -244,12 +244,12 @@
       "type": "normal",
       "categoryIds": [2],
       "subCategoryIds": [6],
-      "img": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1521577352947-9bb58764b69a?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/12513261/pexels-photo-12513261.jpeg?_gl=1*x8svxf*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjg1NTMkajM4JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/12513260/pexels-photo-12513260.jpeg?_gl=1*10544j7*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjg1NjEkajMwJGwwJGgw"
     },
     {
       "id": 20,
-      "title": "Men's Minimal Rider Jacket",
+      "title": "Men's Minimal Everyday Jacket",
       "desc": "A minimalist rider shape with subtle panels and a smooth matte leather surface.",
       "price": 289,
       "oldPrice": 339,
@@ -257,12 +257,12 @@
       "type": "normal",
       "categoryIds": [2],
       "subCategoryIds": [4],
-      "img": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/20225072/pexels-photo-20225072.jpeg?_gl=1*1uc5qd*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjg3MDUkajExJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/20225063/pexels-photo-20225063.jpeg?_gl=1*74188g*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjg3MTckajU5JGwwJGgw"
     },
     {
       "id": 21,
-      "title": "Men's Leather Bomber Jacket",
+      "title": "Men's Leather Night-Out Jacket",
       "desc": "A soft-structured leather bomber with rib trim and a practical profile for daily rotation.",
       "price": 239,
       "oldPrice": 289,
@@ -270,12 +270,12 @@
       "type": "normal",
       "categoryIds": [2],
       "subCategoryIds": [5],
-      "img": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/34164193/pexels-photo-34164193.jpeg?_gl=1*5j7jak*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjg5MDAkajUkbDAkaDA.",
+      "img2": "https://images.pexels.com/photos/34164195/pexels-photo-34164195.jpeg?_gl=1*5j7jak*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjg5MDAkajUkbDAkaDA."
     },
     {
       "id": 22,
-      "title": "Men's Belted Field Coat",
+      "title": "Men's Straight Line Field Coat",
       "desc": "A belted field coat with balanced structure, tonal detailing, and confident everyday wearability.",
       "price": 309,
       "oldPrice": 365,
@@ -283,12 +283,12 @@
       "type": "normal",
       "categoryIds": [2],
       "subCategoryIds": [6],
-      "img": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/7654300/pexels-photo-7654300.jpeg?_gl=1*hohne5*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjg5ODckajE2JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/7654354/pexels-photo-7654354.jpeg?_gl=1*hohne5*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1Mjg5ODckajE2JGwwJGgw"
     },
     {
       "id": 23,
-      "title": "Men's Refined Moto Coat",
+      "title": "Men's Refined Coat",
       "desc": "A longer moto-inspired silhouette combining technical detail with an elevated finish.",
       "price": 329,
       "oldPrice": 389,
@@ -296,12 +296,12 @@
       "type": "normal",
       "categoryIds": [2],
       "subCategoryIds": [4, 6],
-      "img": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/4727552/pexels-photo-4727552.jpeg?_gl=1*1hspzo5*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjkwNTkkajI3JGwwJGgw",
+      "img2": "https://images.pexels.com/photos/4727503/pexels-photo-4727503.jpeg?_gl=1*1e3xezf*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjkwNjgkajE4JGwwJGgw"
     },
     {
       "id": 24,
-      "title": "Men's Clean Leather Jacket",
+      "title": "Men's Puffer Jacket",
       "desc": "A versatile leather jacket designed for clean styling, movement, and long-term everyday use.",
       "price": 219,
       "oldPrice": 269,
@@ -309,8 +309,8 @@
       "type": "normal",
       "categoryIds": [2],
       "subCategoryIds": [5],
-      "img": "https://images.unsplash.com/photo-1519085360753-fd307571497f?auto=format&fit=crop&w=1000&q=80",
-      "img2": "https://images.unsplash.com/photo-1521577352947-9bb58764b69a?auto=format&fit=crop&w=1000&q=80"
+      "img": "https://images.pexels.com/photos/6626747/pexels-photo-6626747.jpeg?_gl=1*ampgjy*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjkxMDckajQyJGwwJGgw",
+      "img2": "https://images.pexels.com/photos/6626749/pexels-photo-6626749.jpeg?_gl=1*7xv81u*_ga*MjgxNzk3NzQxLjE3NzI0NTk5ODk.*_ga_8JE65Q40S6*czE3NzI1MjczMTAkbzMkZzEkdDE3NzI1MjkxNzAkajUxJGwwJGgw"
     },
     {
       "id": 25,
